@@ -38,6 +38,6 @@ npm start
 
 - **Electron** - Desktop application framework
 - **HTML/CSS/JavaScript** - Frontend
-
-This project was built by following **[Nashallery]([https://www.youtube.com/@Nashallery](https://www.youtube.com/watch?v=btxGSJ3Dh8E)**'s YouTube tutorial for creating a calendar frame, and then transformed into a functional clock widget with additional features.
+  
+This project was built by following **[Nashallery](https://www.youtube.com/watch?v=btxGSJ3Dh8E)**'s YouTube tutorial for creating a calendar frame, and then transformed into a functional clock widget with additional features.
 
